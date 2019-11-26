@@ -1,5 +1,5 @@
 {
-  "name": "printf",
+  "name": "node-printf",
   "version": "1.0.0",
   "description": "this module is to create a printf method in node",
   "main": "printf.js",
